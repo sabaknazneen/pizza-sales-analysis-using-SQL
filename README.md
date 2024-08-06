@@ -21,6 +21,8 @@ Examine contributions and trends over time.
 
 
 Database Schema
+
+
 The project assumes the following simplified database schema:
 
 orders: Contains information about each order.
@@ -37,6 +39,8 @@ pizza_id: Unique identifier for the pizza.
 pizza_name: Name of the pizza.
 pizza_type: Type of the pizza.
 pizza_category: Category of the pizza (e.g., vegetarian, non-vegetarian).
+
+
 Setup Instructions
 Database Setup:
 
@@ -48,6 +52,8 @@ Use a SQL client like MySQL Workbench, pgAdmin, or any other client compatible w
 Queries and Analysis
 
 Basic Queries
+
+
 Total Number of Orders:
 Purpose: Determine the total volume of orders.
 
